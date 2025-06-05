@@ -1,0 +1,560 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectbusinesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|solutionrelative:apiconsume\\hotelprojectbusinesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectentitylayer\\concrete\\sendmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|solutionrelative:apiconsume\\hotelprojectentitylayer\\concrete\\sendmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectbusinesslayer\\abstract\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|solutionrelative:apiconsume\\hotelprojectbusinesslayer\\abstract\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectentitylayer\\concrete\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|solutionrelative:apiconsume\\hotelprojectentitylayer\\concrete\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectentitylayer\\concrete\\messagecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|solutionrelative:apiconsume\\hotelprojectentitylayer\\concrete\\messagecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectentitylayer\\concrete\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|solutionrelative:apiconsume\\hotelprojectentitylayer\\concrete\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectbusinesslayer\\abstract\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|solutionrelative:apiconsume\\hotelprojectbusinesslayer\\abstract\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectentitylayer\\concrete\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|solutionrelative:apiconsume\\hotelprojectentitylayer\\concrete\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectentitylayer\\concrete\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|solutionrelative:apiconsume\\hotelprojectentitylayer\\concrete\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectentitylayer\\concrete\\subscribe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|solutionrelative:apiconsume\\hotelprojectentitylayer\\concrete\\subscribe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectentitylayer\\concrete\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|solutionrelative:apiconsume\\hotelprojectentitylayer\\concrete\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectentitylayer\\concrete\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|solutionrelative:apiconsume\\hotelprojectentitylayer\\concrete\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectentitylayer\\concrete\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|solutionrelative:apiconsume\\hotelprojectentitylayer\\concrete\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectentitylayer\\hotelprojectentitylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75630FD3-6F20-4FBB-B195-C5196450421D}|ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj|solutionrelative:apiconsume\\hotelprojectentitylayer\\hotelprojectentitylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectbusinesslayer\\abstract\\iappuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|solutionrelative:apiconsume\\hotelprojectbusinesslayer\\abstract\\iappuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectbusinesslayer\\abstract\\iworklocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|solutionrelative:apiconsume\\hotelprojectbusinesslayer\\abstract\\iworklocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectbusinesslayer\\abstract\\itestimonialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|solutionrelative:apiconsume\\hotelprojectbusinesslayer\\abstract\\itestimonialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectbusinesslayer\\abstract\\isubscribeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|solutionrelative:apiconsume\\hotelprojectbusinesslayer\\abstract\\isubscribeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectbusinesslayer\\abstract\\istaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|solutionrelative:apiconsume\\hotelprojectbusinesslayer\\abstract\\istaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectbusinesslayer\\abstract\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|solutionrelative:apiconsume\\hotelprojectbusinesslayer\\abstract\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectbusinesslayer\\abstract\\isendmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|solutionrelative:apiconsume\\hotelprojectbusinesslayer\\abstract\\isendmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectbusinesslayer\\abstract\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|solutionrelative:apiconsume\\hotelprojectbusinesslayer\\abstract\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectbusinesslayer\\abstract\\imessagecategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|solutionrelative:apiconsume\\hotelprojectbusinesslayer\\abstract\\imessagecategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectbusinesslayer\\abstract\\iguestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|solutionrelative:apiconsume\\hotelprojectbusinesslayer\\abstract\\iguestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectbusinesslayer\\abstract\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A11D1-21F8-4762-BBBF-9E3F59B07CAB}|ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj|solutionrelative:apiconsume\\hotelprojectbusinesslayer\\abstract\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F39054F-12A8-4DA7-9659-BF90A891F0AE}|ApiConsume\\HotelProjectDataAccessLayer\\HotelProjectDataAccessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectdataaccesslayer\\entityframework\\eftestimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F39054F-12A8-4DA7-9659-BF90A891F0AE}|ApiConsume\\HotelProjectDataAccessLayer\\HotelProjectDataAccessLayer.csproj|solutionrelative:apiconsume\\hotelprojectdataaccesslayer\\entityframework\\eftestimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F39054F-12A8-4DA7-9659-BF90A891F0AE}|ApiConsume\\HotelProjectDataAccessLayer\\HotelProjectDataAccessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectdataaccesslayer\\entityframework\\efsubscribedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F39054F-12A8-4DA7-9659-BF90A891F0AE}|ApiConsume\\HotelProjectDataAccessLayer\\HotelProjectDataAccessLayer.csproj|solutionrelative:apiconsume\\hotelprojectdataaccesslayer\\entityframework\\efsubscribedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F39054F-12A8-4DA7-9659-BF90A891F0AE}|ApiConsume\\HotelProjectDataAccessLayer\\HotelProjectDataAccessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectdataaccesslayer\\entityframework\\efstaffdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F39054F-12A8-4DA7-9659-BF90A891F0AE}|ApiConsume\\HotelProjectDataAccessLayer\\HotelProjectDataAccessLayer.csproj|solutionrelative:apiconsume\\hotelprojectdataaccesslayer\\entityframework\\efstaffdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F39054F-12A8-4DA7-9659-BF90A891F0AE}|ApiConsume\\HotelProjectDataAccessLayer\\HotelProjectDataAccessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectdataaccesslayer\\entityframework\\efservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F39054F-12A8-4DA7-9659-BF90A891F0AE}|ApiConsume\\HotelProjectDataAccessLayer\\HotelProjectDataAccessLayer.csproj|solutionrelative:apiconsume\\hotelprojectdataaccesslayer\\entityframework\\efservicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F39054F-12A8-4DA7-9659-BF90A891F0AE}|ApiConsume\\HotelProjectDataAccessLayer\\HotelProjectDataAccessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectdataaccesslayer\\entityframework\\efroomdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F39054F-12A8-4DA7-9659-BF90A891F0AE}|ApiConsume\\HotelProjectDataAccessLayer\\HotelProjectDataAccessLayer.csproj|solutionrelative:apiconsume\\hotelprojectdataaccesslayer\\entityframework\\efroomdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F39054F-12A8-4DA7-9659-BF90A891F0AE}|ApiConsume\\HotelProjectDataAccessLayer\\HotelProjectDataAccessLayer.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\apiconsume\\hotelprojectdataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F39054F-12A8-4DA7-9659-BF90A891F0AE}|ApiConsume\\HotelProjectDataAccessLayer\\HotelProjectDataAccessLayer.csproj|solutionrelative:apiconsume\\hotelprojectdataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SendMessage.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\SendMessage.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\SendMessage.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\SendMessage.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\SendMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:29:26.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageCategory.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\MessageCategory.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\MessageCategory.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\MessageCategory.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\MessageCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:28:02.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Guest.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Guest.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Guest.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Guest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:27:39.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Contact.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Contact.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Contact.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Contact.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:27:17.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Booking.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Booking.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Booking.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:26:43.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\About.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\About.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\About.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:26:17.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Subscribe.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Subscribe.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Subscribe.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Subscribe.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Subscribe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:26:07.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Staff.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Staff.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Staff.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:26:06.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Service.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Service.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Service.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:26:05.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Room.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Room.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Room.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:26:01.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:21:25.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HotelProjectEntityLayer",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj",
+              "RelativeToolTip": "ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T12:25:56.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IContactService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IContactService.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IContactService.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:21:13.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IWorkLocationService.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IWorkLocationService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IWorkLocationService.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IWorkLocationService.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IWorkLocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:23:15.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IBookingService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IBookingService.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:20:45.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITestimonialService.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\ITestimonialService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\ITestimonialService.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\ITestimonialService.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\ITestimonialService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:23:01.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISubscribeService.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\ISubscribeService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\ISubscribeService.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\ISubscribeService.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\ISubscribeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:22:53.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IStaffService.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IStaffService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IStaffService.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IStaffService.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IStaffService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:22:42.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IServiceService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IServiceService.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IServiceService.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IServiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:22:32.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAppUserService.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IAppUserService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IAppUserService.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IAppUserService.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IAppUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:16:27.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISendMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\ISendMessageService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\ISendMessageService.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\ISendMessageService.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\ISendMessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:22:20.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IRoomService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IRoomService.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IRoomService.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IRoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:22:09.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IMessageCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IMessageCategoryService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IMessageCategoryService.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IMessageCategoryService.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IMessageCategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:21:59.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IGuestService.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IGuestService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IGuestService.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IGuestService.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IGuestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:21:40.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAboutService.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IAboutService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IAboutService.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IAboutService.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IAboutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T12:15:13.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EfTestimonialDal.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:19:57.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EfSubscribeDal.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfSubscribeDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfSubscribeDal.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfSubscribeDal.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfSubscribeDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:19:28.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EfStaffDal.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfStaffDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfStaffDal.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfStaffDal.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfStaffDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:18:18.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EfServiceDal.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfServiceDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfServiceDal.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfServiceDal.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfServiceDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:16:07.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EfRoomDal.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfRoomDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfRoomDal.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfRoomDal.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfRoomDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:13:21.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProjectDataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:09:32.319Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

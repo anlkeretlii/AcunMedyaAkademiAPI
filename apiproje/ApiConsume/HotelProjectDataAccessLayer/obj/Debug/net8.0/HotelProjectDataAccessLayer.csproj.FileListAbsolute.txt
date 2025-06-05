@@ -1,0 +1,17 @@
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectDataAccessLayer\bin\Debug\net8.0\HotelProjectDataAccessLayer.deps.json
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectDataAccessLayer\bin\Debug\net8.0\HotelProjectDataAccessLayer.runtimeconfig.json
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectDataAccessLayer\bin\Debug\net8.0\HotelProjectDataAccessLayer.dll
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectDataAccessLayer\bin\Debug\net8.0\HotelProjectDataAccessLayer.pdb
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectDataAccessLayer\bin\Debug\net8.0\HotelProjectEntityLayer.dll
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectDataAccessLayer\bin\Debug\net8.0\HotelProjectEntityLayer.pdb
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectDataAccessLayer\obj\Debug\net8.0\HotelProjectDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectDataAccessLayer\obj\Debug\net8.0\HotelProjectDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectDataAccessLayer\obj\Debug\net8.0\HotelProjectDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectDataAccessLayer\obj\Debug\net8.0\HotelProjectDataAccessLayer.AssemblyInfo.cs
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectDataAccessLayer\obj\Debug\net8.0\HotelProjectDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectDataAccessLayer\obj\Debug\net8.0\HotelPro.791D84CC.Up2Date
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectDataAccessLayer\obj\Debug\net8.0\HotelProjectDataAccessLayer.dll
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectDataAccessLayer\obj\Debug\net8.0\refint\HotelProjectDataAccessLayer.dll
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectDataAccessLayer\obj\Debug\net8.0\HotelProjectDataAccessLayer.pdb
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectDataAccessLayer\obj\Debug\net8.0\HotelProjectDataAccessLayer.genruntimeconfig.cache
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectDataAccessLayer\obj\Debug\net8.0\ref\HotelProjectDataAccessLayer.dll

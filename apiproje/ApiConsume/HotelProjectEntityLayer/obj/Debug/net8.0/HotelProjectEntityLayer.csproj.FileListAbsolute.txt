@@ -1,0 +1,14 @@
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectEntityLayer\bin\Debug\net8.0\HotelProjectEntityLayer.deps.json
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectEntityLayer\bin\Debug\net8.0\HotelProjectEntityLayer.runtimeconfig.json
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectEntityLayer\bin\Debug\net8.0\HotelProjectEntityLayer.dll
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectEntityLayer\bin\Debug\net8.0\HotelProjectEntityLayer.pdb
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectEntityLayer\obj\Debug\net8.0\HotelProjectEntityLayer.csproj.AssemblyReference.cache
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectEntityLayer\obj\Debug\net8.0\HotelProjectEntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectEntityLayer\obj\Debug\net8.0\HotelProjectEntityLayer.AssemblyInfoInputs.cache
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectEntityLayer\obj\Debug\net8.0\HotelProjectEntityLayer.AssemblyInfo.cs
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectEntityLayer\obj\Debug\net8.0\HotelProjectEntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectEntityLayer\obj\Debug\net8.0\HotelProjectEntityLayer.dll
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectEntityLayer\obj\Debug\net8.0\refint\HotelProjectEntityLayer.dll
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectEntityLayer\obj\Debug\net8.0\HotelProjectEntityLayer.pdb
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectEntityLayer\obj\Debug\net8.0\HotelProjectEntityLayer.genruntimeconfig.cache
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectEntityLayer\obj\Debug\net8.0\ref\HotelProjectEntityLayer.dll

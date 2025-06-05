@@ -1,0 +1,17 @@
+C:\Users\cucin\Desktop\c# ödevler\apiproje\HotelProjectDtoLayer\bin\Debug\net8.0\HotelProjectDtoLayer.deps.json
+C:\Users\cucin\Desktop\c# ödevler\apiproje\HotelProjectDtoLayer\bin\Debug\net8.0\HotelProjectDtoLayer.runtimeconfig.json
+C:\Users\cucin\Desktop\c# ödevler\apiproje\HotelProjectDtoLayer\bin\Debug\net8.0\HotelProjectDtoLayer.dll
+C:\Users\cucin\Desktop\c# ödevler\apiproje\HotelProjectDtoLayer\bin\Debug\net8.0\HotelProjectDtoLayer.pdb
+C:\Users\cucin\Desktop\c# ödevler\apiproje\HotelProjectDtoLayer\bin\Debug\net8.0\HotelProjectEntityLayer.dll
+C:\Users\cucin\Desktop\c# ödevler\apiproje\HotelProjectDtoLayer\bin\Debug\net8.0\HotelProjectEntityLayer.pdb
+C:\Users\cucin\Desktop\c# ödevler\apiproje\HotelProjectDtoLayer\obj\Debug\net8.0\HotelProjectDtoLayer.csproj.AssemblyReference.cache
+C:\Users\cucin\Desktop\c# ödevler\apiproje\HotelProjectDtoLayer\obj\Debug\net8.0\HotelProjectDtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cucin\Desktop\c# ödevler\apiproje\HotelProjectDtoLayer\obj\Debug\net8.0\HotelProjectDtoLayer.AssemblyInfoInputs.cache
+C:\Users\cucin\Desktop\c# ödevler\apiproje\HotelProjectDtoLayer\obj\Debug\net8.0\HotelProjectDtoLayer.AssemblyInfo.cs
+C:\Users\cucin\Desktop\c# ödevler\apiproje\HotelProjectDtoLayer\obj\Debug\net8.0\HotelProjectDtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\cucin\Desktop\c# ödevler\apiproje\HotelProjectDtoLayer\obj\Debug\net8.0\HotelPro.AD23A7F2.Up2Date
+C:\Users\cucin\Desktop\c# ödevler\apiproje\HotelProjectDtoLayer\obj\Debug\net8.0\HotelProjectDtoLayer.dll
+C:\Users\cucin\Desktop\c# ödevler\apiproje\HotelProjectDtoLayer\obj\Debug\net8.0\refint\HotelProjectDtoLayer.dll
+C:\Users\cucin\Desktop\c# ödevler\apiproje\HotelProjectDtoLayer\obj\Debug\net8.0\HotelProjectDtoLayer.pdb
+C:\Users\cucin\Desktop\c# ödevler\apiproje\HotelProjectDtoLayer\obj\Debug\net8.0\HotelProjectDtoLayer.genruntimeconfig.cache
+C:\Users\cucin\Desktop\c# ödevler\apiproje\HotelProjectDtoLayer\obj\Debug\net8.0\ref\HotelProjectDtoLayer.dll
