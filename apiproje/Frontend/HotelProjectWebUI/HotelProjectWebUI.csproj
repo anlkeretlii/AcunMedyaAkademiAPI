@@ -17,6 +17,26 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
+    <PackageReference Include="FluentValidation" Version="11.8.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.16" />
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\ApiConsume\HotelProjectDataAccessLayer\HotelProjectDataAccessLayer.csproj" />
+    <ProjectReference Include="..\..\ApiConsume\HotelProjectEntityLayer\HotelProjectEntityLayer.csproj" />
+    <ProjectReference Include="..\..\ApiConsume\HotelProjectBusinessLayer\HotelProjectBusinessLayer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Dtos\ContactDto\" />
+    <Folder Include="Dtos\FollowersDto\" />
+    <Folder Include="Dtos\MessageCategoryDto\" />
+    <Folder Include="Dtos\WorkLocationDto\" />
+    <Folder Include="Dtos\SendMessageDto\" />
   </ItemGroup>
 
 </Project>
