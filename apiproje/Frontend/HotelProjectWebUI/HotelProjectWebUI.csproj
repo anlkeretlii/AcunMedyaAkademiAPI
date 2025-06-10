@@ -32,11 +32,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Dtos\ContactDto\" />
-    <Folder Include="Dtos\FollowersDto\" />
-    <Folder Include="Dtos\MessageCategoryDto\" />
-    <Folder Include="Dtos\WorkLocationDto\" />
-    <Folder Include="Dtos\SendMessageDto\" />
+    <Folder Include="ViewComponents\" />
   </ItemGroup>
 
 </Project>

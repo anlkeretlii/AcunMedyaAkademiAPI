@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -28,10 +28,6 @@
     <ProjectReference Include="..\HotelProjectBusinessLayer\HotelProjectBusinessLayer.csproj" />
     <ProjectReference Include="..\HotelProjectDataAccessLayer\HotelProjectDataAccessLayer.csproj" />
     <ProjectReference Include="..\HotelProjectEntityLayer\HotelProjectEntityLayer.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Models\" />
   </ItemGroup>
 
 </Project>
