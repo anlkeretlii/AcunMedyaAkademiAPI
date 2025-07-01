@@ -3,6 +3,7 @@ using HotelProjectBusinessLayer.Concrete;
 using HotelProjectDataAccessLayer.Abstract;
 using HotelProjectDataAccessLayer.Concrete;
 using HotelProjectDataAccessLayer.EntityFramework;
+using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -51,7 +52,17 @@ builder.Services.AddScoped<IAppUserService, AppUserManager>();
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo 
+    { 
+        Title = "Hotel Project API", 
+        Version = "v1" 
+    });
+    
+    // IFormFile için operasyon filtresi
+    c.OperationFilter<FileUploadOperationFilter>();
+});
 
 var app = builder.Build();
 
