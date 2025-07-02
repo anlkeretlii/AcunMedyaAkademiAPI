@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\views\\adminlayout\\headpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\views\\adminlayout\\headpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\views\\bookingadmin\\updatebooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\views\\bookingadmin\\updatebooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\controllers\\bookingadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\controllers\\bookingadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\views\\booking\\addbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\views\\booking\\addbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\views\\bookingadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\views\\bookingadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\views\\adminlayout\\headpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\views\\adminlayout\\headpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\viewcomponents\\booking\\_bookingcoverpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\viewcomponents\\booking\\_bookingcoverpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\views\\booking\\addbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\views\\booking\\addbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -898,11 +910,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Default\\Index.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Default\\Index.cshtml",
@@ -911,12 +923,54 @@
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-01T05:51:36.87Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateBooking.cshtml",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\BookingAdmin\\UpdateBooking.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\BookingAdmin\\UpdateBooking.cshtml",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\BookingAdmin\\UpdateBooking.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Views\\BookingAdmin\\UpdateBooking.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T07:56:50.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\BookingAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\BookingAdmin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\BookingAdmin\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Views\\BookingAdmin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T07:34:29.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\BookingAdminController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Controllers\\BookingAdminController.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\BookingAdminController.cs",
+              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Controllers\\BookingAdminController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T07:14:12.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AddBooking.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Booking\\AddBooking.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Booking\\AddBooking.cshtml",
@@ -929,7 +983,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_BookingCoverPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_BookingCoverPartial\\Default.cshtml",
@@ -937,12 +991,11 @@
               "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_BookingCoverPartial\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-01T14:33:04.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T14:33:04.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "_BookingCoverPartial.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\ViewComponents\\Booking\\_BookingCoverPartial.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\ViewComponents\\Booking\\_BookingCoverPartial.cs",
@@ -950,29 +1003,24 @@
               "RelativeToolTip": "Frontend\\HotelProjectWebUI\\ViewComponents\\Booking\\_BookingCoverPartial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T14:31:39.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T14:31:39.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "BookingController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Controllers\\BookingController.cs",
               "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\BookingController.cs",
               "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T14:13:36.067Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Program.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Program.cs",
@@ -980,12 +1028,11 @@
               "RelativeToolTip": "ApiConsume\\HotelProjectWebApi\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAowB8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T13:08:04.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T13:08:04.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "BookingController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Controllers\\BookingController.cs",
@@ -993,12 +1040,11 @@
               "RelativeToolTip": "ApiConsume\\HotelProjectWebApi\\Controllers\\BookingController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T19:18:31.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T19:18:31.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Booking\\Index.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Booking\\Index.cshtml",
@@ -1006,12 +1052,11 @@
               "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Views\\Booking\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-01T14:15:12.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T14:15:12.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "HeadPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\AdminLayout\\HeadPartial.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\AdminLayout\\HeadPartial.cshtml",
@@ -1024,7 +1069,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "BookingManager.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Concrete\\BookingManager.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Concrete\\BookingManager.cs",
@@ -1032,12 +1077,11 @@
               "RelativeToolTip": "ApiConsume\\HotelProjectBusinessLayer\\Concrete\\BookingManager.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAwwE4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T19:02:04.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T19:02:04.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "IBookingService.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IBookingService.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IBookingService.cs",
@@ -1045,12 +1089,11 @@
               "RelativeToolTip": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IBookingService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:20:45.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:20:45.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "EfBookingDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfBookingDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfBookingDal.cs",
@@ -1058,12 +1101,11 @@
               "RelativeToolTip": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfBookingDal.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAYwEgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T18:52:53.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T18:52:53.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Controllers\\LoginController.cs",
@@ -1071,12 +1113,11 @@
               "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Controllers\\LoginController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T10:39:14.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T10:39:14.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "DefaultController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\DefaultController.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Controllers\\DefaultController.cs",
@@ -1084,12 +1125,11 @@
               "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Controllers\\DefaultController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T12:19:17.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T12:19:17.658Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "IBookingDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IBookingDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IBookingDal.cs",
@@ -1097,12 +1137,11 @@
               "RelativeToolTip": "ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IBookingDal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:44:27.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:44:27.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Booking.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Booking.cs",
@@ -1110,12 +1149,11 @@
               "RelativeToolTip": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Booking.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:26:43.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:26:43.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "AdminLayoutController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\AdminLayoutController.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Controllers\\AdminLayoutController.cs",
@@ -1127,7 +1165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_TeamPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_TeamPartial\\Default.cshtml",
@@ -1139,7 +1177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "_SubscribePartial.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Default\\_SubscribePartial.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Default\\_SubscribePartial.cshtml",
@@ -1151,7 +1189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\appsettings.json",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\appsettings.json",
@@ -1163,7 +1201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\appsettings.json",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\appsettings.json",
@@ -1175,7 +1213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "FileUploadOperationFilter.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\SwaggerHelpers\\FileUploadOperationFilter.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\SwaggerHelpers\\FileUploadOperationFilter.cs",
@@ -1187,7 +1225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_FooterPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_FooterPartial\\Default.cshtml",
@@ -1195,12 +1233,11 @@
               "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_FooterPartial\\Default.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAEEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-01T08:26:50.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T08:26:50.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\_ViewStart.cshtml",
@@ -1212,7 +1249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\_ViewImports.cshtml",
@@ -1224,7 +1261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Program.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Program.cs",
@@ -1236,7 +1273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "_TeamPartial.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_TeamPartial.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_TeamPartial.cs",
@@ -1248,7 +1285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_ServicePartial\\Default.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_ServicePartial\\Default.cshtml",
@@ -1260,7 +1297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_spinner\\Default.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_spinner\\Default.cshtml",
@@ -1272,7 +1309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_SubscribePartial\\Default.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_SubscribePartial\\Default.cshtml",
@@ -1284,7 +1321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "AutoMapperConfig.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Mapping\\AutoMapperConfig.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Mapping\\AutoMapperConfig.cs",
@@ -1296,7 +1333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "_ServicePartial.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_ServicePartial.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_ServicePartial.cs",
@@ -1308,7 +1345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "_TrailerPartial.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_TrailerPartial.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_TrailerPartial.cs",
@@ -1320,7 +1357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_TestimonialPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_TestimonialPartial\\Default.cshtml",
@@ -1332,7 +1369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "_TestimonialPartial.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_TestimonialPartial.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_TestimonialPartial.cs",
@@ -1344,7 +1381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "_SliderPartial.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_SliderPartial.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_SliderPartial.cs",
@@ -1356,7 +1393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "_spinner.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_spinner.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_spinner.cs",
@@ -1368,7 +1405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "_OurRoomsPartial.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_OurRoomsPartial.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_OurRoomsPartial.cs",
@@ -1380,7 +1417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_TrailerPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_TrailerPartial\\Default.cshtml",
@@ -1392,7 +1429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_OurRoomsPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_OurRoomsPartial\\Default.cshtml",
@@ -1404,7 +1441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "ServiceController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\ServiceController.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Controllers\\ServiceController.cs",
@@ -1416,7 +1453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "UpdateRoomDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\RoomDto\\UpdateRoomDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\RoomDto\\UpdateRoomDto.cs",
@@ -1428,7 +1465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "ResultRoomDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\RoomDto\\ResultRoomDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\RoomDto\\ResultRoomDto.cs",
@@ -1440,7 +1477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "CreateRoomDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\RoomDto\\CreateRoomDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\RoomDto\\CreateRoomDto.cs",
@@ -1452,7 +1489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "RoomController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\RoomController.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Controllers\\RoomController.cs",
@@ -1464,7 +1501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_AboutUsPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_AboutUsPartial\\Default.cshtml",
@@ -1476,7 +1513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "AboutController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Controllers\\AboutController.cs",
@@ -1488,7 +1525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "HotelProjectWebApi.csproj",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\HotelProjectWebApi.csproj",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\HotelProjectWebApi.csproj",
@@ -1500,7 +1537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "AboutManager.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Concrete\\AboutManager.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Concrete\\AboutManager.cs",
@@ -1512,7 +1549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "IAboutService.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IAboutService.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IAboutService.cs",
@@ -1524,7 +1561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "EfAboutDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfAboutDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfAboutDal.cs",
@@ -1536,7 +1573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "IAboutDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IAboutDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IAboutDal.cs",
@@ -1548,7 +1585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Concrete\\Context.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\Concrete\\Context.cs",
@@ -1560,7 +1597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "HotelProjectDataAccessLayer.csproj",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\HotelProjectDataAccessLayer.csproj",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\HotelProjectDataAccessLayer.csproj",
@@ -1572,7 +1609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "About.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\About.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\About.cs",
@@ -1584,7 +1621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_SliderPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_SliderPartial\\Default.cshtml",
@@ -1596,7 +1633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_Navbar\\Default.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_Navbar\\Default.cshtml",
@@ -1608,7 +1645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 60,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_HeadPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_HeadPartial\\Default.cshtml",
@@ -1620,7 +1657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 61,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_ScriptsPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_ScriptsPartial\\Default.cshtml",
@@ -1632,7 +1669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 62,
               "Title": "_ScriptsPartial.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_ScriptsPartial.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_ScriptsPartial.cs",
@@ -1644,7 +1681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "_FooterPartial.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_FooterPartial.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_FooterPartial.cs",
@@ -1656,7 +1693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 65,
               "Title": "_AboutUsPartial.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_AboutUsPartial.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_AboutUsPartial.cs",
@@ -1668,7 +1705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "_HeadPartial.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_HeadPartial.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_HeadPartial.cs",
@@ -1680,7 +1717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 71,
               "Title": "IGenericService.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IGenericService.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IGenericService.cs",
@@ -1692,7 +1729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 70,
               "Title": "IRoomService.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IRoomService.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IRoomService.cs",
@@ -1704,7 +1741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 69,
               "Title": "AppUserManager.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Concrete\\AppUserManager.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Concrete\\AppUserManager.cs",
@@ -1716,7 +1753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 68,
               "Title": "GuestManager.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Concrete\\GuestManager.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Concrete\\GuestManager.cs",
@@ -1728,7 +1765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "DashboardWidgetsController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Controllers\\DashboardWidgetsController.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Controllers\\DashboardWidgetsController.cs",
@@ -1740,7 +1777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 66,
               "Title": "FileImageController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Controllers\\FileImageController.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Controllers\\FileImageController.cs",
@@ -1752,7 +1789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 72,
               "Title": "HotelProjectBusinessLayer.csproj",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\HotelProjectBusinessLayer.csproj",
@@ -1764,7 +1801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 74,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_ReservationPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_ReservationPartial\\Default.cshtml",
@@ -1776,7 +1813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 75,
               "Title": "_ReservationPartial.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_ReservationPartial.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_ReservationPartial.cs",
@@ -1788,7 +1825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 73,
               "Title": "AdminAboutController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\AdminAboutController.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Controllers\\AdminAboutController.cs",
@@ -1800,7 +1837,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 76,
               "Title": "_Navbar.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_Navbar.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\ViewComponents\\Default\\_Navbar.cs",
@@ -1812,7 +1849,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 79,
               "Title": "RegisterController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\RegisterController.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Controllers\\RegisterController.cs",
@@ -1824,7 +1861,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 78,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Controllers\\HomeController.cs",
@@ -1836,7 +1873,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 77,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Login\\Index.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Login\\Index.cshtml",
@@ -1848,7 +1885,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 80,
               "Title": "StaffController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\StaffController.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Controllers\\StaffController.cs",
@@ -1860,7 +1897,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 81,
               "Title": "TestimonialController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\TestimonialController.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Controllers\\TestimonialController.cs",
@@ -1872,7 +1909,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 83,
               "Title": "CreateServiceDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\ServiceDto\\CreateServiceDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\ServiceDto\\CreateServiceDto.cs",
@@ -1884,7 +1921,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 82,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Register\\Index.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Register\\Index.cshtml",
@@ -1896,7 +1933,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 84,
               "Title": "CreateNewUserDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\RegisterDto\\CreateNewUserDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\RegisterDto\\CreateNewUserDto.cs",
@@ -1908,7 +1945,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 86,
               "Title": "UpdateStaff.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Staff\\UpdateStaff.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Staff\\UpdateStaff.cshtml",
@@ -1920,7 +1957,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 88,
               "Title": "AddStaff.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Staff\\AddStaff.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Staff\\AddStaff.cshtml",
@@ -1932,7 +1969,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 92,
               "Title": "UpdateTestimonial.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Testimonial\\UpdateTestimonial.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Testimonial\\UpdateTestimonial.cshtml",
@@ -1944,7 +1981,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 94,
               "Title": "UpdateServiceDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\ServiceDto\\UpdateServiceDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\ServiceDto\\UpdateServiceDto.cs",
@@ -1956,7 +1993,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 93,
               "Title": "ResultServiceDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\ServiceDto\\ResultServiceDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\ServiceDto\\ResultServiceDto.cs",
@@ -1968,7 +2005,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 87,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Staff\\Index.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Staff\\Index.cshtml",
@@ -1980,7 +2017,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 91,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Service\\Index.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Service\\Index.cshtml",
@@ -1992,7 +2029,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 89,
               "Title": "AddService.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Service\\AddService.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Service\\AddService.cshtml",
@@ -2004,7 +2041,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 85,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\AppUser.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\AppUser.cs",
@@ -2016,7 +2053,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 90,
               "Title": "UpdateService.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Service\\UpdateService.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Service\\UpdateService.cshtml",
@@ -2028,7 +2065,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 95,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Testimonial\\Index.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Testimonial\\Index.cshtml",
@@ -2040,7 +2077,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 96,
               "Title": "InstagramFollowersViewModel.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Models\\InstagramFollowersViewModel.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Models\\InstagramFollowersViewModel.cs",
@@ -2052,7 +2089,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 99,
               "Title": "UpdateWorkLocationDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\WorkLocationDto\\UpdateWorkLocationDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\WorkLocationDto\\UpdateWorkLocationDto.cs",
@@ -2064,7 +2101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 100,
               "Title": "ResultWorkLocationDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\WorkLocationDto\\ResultWorkLocationDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\WorkLocationDto\\ResultWorkLocationDto.cs",
@@ -2076,7 +2113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 101,
               "Title": "CreateWorkLocationDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\WorkLocationDto\\CreateWorkLocationDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\WorkLocationDto\\CreateWorkLocationDto.cs",
@@ -2088,7 +2125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 102,
               "Title": "ResultSendboxDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\SendMessageDto\\ResultSendboxDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\SendMessageDto\\ResultSendboxDto.cs",
@@ -2100,7 +2137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 98,
               "Title": "AddStaffViewModel.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Models\\Staff\\AddStaffViewModel.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Models\\Staff\\AddStaffViewModel.cs",
@@ -2112,7 +2149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 97,
               "Title": "StaffViwModel.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Models\\Staff\\StaffViwModel.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Models\\Staff\\StaffViwModel.cs",
@@ -2124,7 +2161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 103,
               "Title": "CreateSendMessage.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\SendMessageDto\\CreateSendMessage.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\SendMessageDto\\CreateSendMessage.cs",
@@ -2136,7 +2173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 104,
               "Title": "ResultMessageCategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\MessageCategoryDto\\ResultMessageCategoryDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\MessageCategoryDto\\ResultMessageCategoryDto.cs",
@@ -2148,7 +2185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 105,
               "Title": "ResultTwittterFollowersDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\FollowersDto\\ResultTwittterFollowersDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\FollowersDto\\ResultTwittterFollowersDto.cs",
@@ -2160,7 +2197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 106,
               "Title": "ResultLinkedinFollowersDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\FollowersDto\\ResultLinkedinFollowersDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\FollowersDto\\ResultLinkedinFollowersDto.cs",
@@ -2172,7 +2209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 107,
               "Title": "ResultInstagramFollowersDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\FollowersDto\\ResultInstagramFollowersDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\FollowersDto\\ResultInstagramFollowersDto.cs",
@@ -2184,7 +2221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 108,
               "Title": "InboxContactDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\ContactDto\\InboxContactDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\ContactDto\\InboxContactDto.cs",
@@ -2196,7 +2233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 109,
               "Title": "GetMessageByIDDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\ContactDto\\GetMessageByIDDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\ContactDto\\GetMessageByIDDto.cs",
@@ -2208,7 +2245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 110,
               "Title": "CreateContactDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\ContactDto\\CreateContactDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\ContactDto\\CreateContactDto.cs",
@@ -2220,7 +2257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 112,
               "Title": "WorkLocationController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Controllers\\WorkLocationController.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Controllers\\WorkLocationController.cs",
@@ -2232,7 +2269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 113,
               "Title": "SendMessageController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Controllers\\SendMessageController.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Controllers\\SendMessageController.cs",
@@ -2244,7 +2281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 111,
               "Title": "ApprovedReservationDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\BookingDto\\ApprovedReservationDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\BookingDto\\ApprovedReservationDto.cs",
@@ -2256,7 +2293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 116,
               "Title": "MessageCategoryController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Controllers\\MessageCategoryController.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Controllers\\MessageCategoryController.cs",
@@ -2268,7 +2305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 114,
+              "DocumentIndex": 117,
               "Title": "FileProcessController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Controllers\\FileProcessController.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Controllers\\FileProcessController.cs",
@@ -2280,7 +2317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 119,
+              "DocumentIndex": 122,
               "Title": "GuestController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Controllers\\GuestController.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Controllers\\GuestController.cs",
@@ -2292,7 +2329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 115,
               "Title": "Room2Controller.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Controllers\\Room2Controller.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Controllers\\Room2Controller.cs",
@@ -2304,7 +2341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 114,
               "Title": "RoomController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Controllers\\RoomController.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Controllers\\RoomController.cs",
@@ -2316,7 +2353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 118,
+              "DocumentIndex": 121,
               "Title": "ServiceController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Controllers\\ServiceController.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Controllers\\ServiceController.cs",
@@ -2328,7 +2365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 117,
+              "DocumentIndex": 120,
               "Title": "StaffController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Controllers\\StaffController.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Controllers\\StaffController.cs",
@@ -2340,7 +2377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
+              "DocumentIndex": 119,
               "Title": "SubscribeController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Controllers\\SubscribeController.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Controllers\\SubscribeController.cs",
@@ -2352,7 +2389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 118,
               "Title": "TestimonialController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Controllers\\TestimonialController.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Controllers\\TestimonialController.cs",
@@ -2364,7 +2401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 120,
+              "DocumentIndex": 123,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Controllers\\ContactController.cs",
@@ -2376,7 +2413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 121,
+              "DocumentIndex": 124,
               "Title": "AppUserWorkLocationController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Controllers\\AppUserWorkLocationController.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Controllers\\AppUserWorkLocationController.cs",
@@ -2388,7 +2425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 122,
+              "DocumentIndex": 125,
               "Title": "AppUserController.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Controllers\\AppUserController.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Controllers\\AppUserController.cs",
@@ -2400,7 +2437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 123,
+              "DocumentIndex": 126,
               "Title": "WorkLocation.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\WorkLocation.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\WorkLocation.cs",
@@ -2412,7 +2449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 124,
+              "DocumentIndex": 127,
               "Title": "Testimonial.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Testimonial.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Testimonial.cs",
@@ -2424,7 +2461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 127,
+              "DocumentIndex": 130,
               "Title": "SendMessage.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\SendMessage.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\SendMessage.cs",
@@ -2436,7 +2473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 128,
+              "DocumentIndex": 131,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Room.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Room.cs",
@@ -2448,7 +2485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 129,
+              "DocumentIndex": 132,
               "Title": "MessageCategory.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\MessageCategory.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\MessageCategory.cs",
@@ -2460,7 +2497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 130,
+              "DocumentIndex": 133,
               "Title": "Guest.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Guest.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Guest.cs",
@@ -2472,7 +2509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 131,
+              "DocumentIndex": 134,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Contact.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Contact.cs",
@@ -2484,7 +2521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 132,
+              "DocumentIndex": 135,
               "Title": "AppRole.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\AppRole.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\AppRole.cs",
@@ -2496,7 +2533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 133,
+              "DocumentIndex": 136,
               "Title": "HotelProjectDtoLayer.csproj",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\HotelProjectDtoLayer\\HotelProjectDtoLayer.csproj",
               "RelativeDocumentMoniker": "HotelProjectDtoLayer\\HotelProjectDtoLayer.csproj",
@@ -2508,7 +2545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 126,
+              "DocumentIndex": 129,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Service.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Service.cs",
@@ -2520,7 +2557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 125,
+              "DocumentIndex": 128,
               "Title": "Staff.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Staff.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Staff.cs",
@@ -2532,7 +2569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 134,
+              "DocumentIndex": 137,
               "Title": "EfWorkLocationDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfWorkLocationDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfWorkLocationDal.cs",
@@ -2544,7 +2581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 135,
+              "DocumentIndex": 138,
               "Title": "EfSubscribeDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfSubscribeDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfSubscribeDal.cs",
@@ -2556,7 +2593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 136,
+              "DocumentIndex": 139,
               "Title": "EfTestimonialDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
@@ -2568,7 +2605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 137,
+              "DocumentIndex": 140,
               "Title": "EfStaffDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfStaffDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfStaffDal.cs",
@@ -2580,7 +2617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 138,
+              "DocumentIndex": 141,
               "Title": "EfServiceDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfServiceDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfServiceDal.cs",
@@ -2592,7 +2629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 139,
+              "DocumentIndex": 142,
               "Title": "EfSendMessageDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfSendMessageDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfSendMessageDal.cs",
@@ -2604,7 +2641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 140,
+              "DocumentIndex": 143,
               "Title": "EfRoomDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfRoomDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfRoomDal.cs",
@@ -2616,7 +2653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 141,
+              "DocumentIndex": 144,
               "Title": "EfMessageCategoryDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfMessageCategoryDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfMessageCategoryDal.cs",
@@ -2628,7 +2665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 142,
+              "DocumentIndex": 145,
               "Title": "EfGuestDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfGuestDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfGuestDal.cs",
@@ -2640,7 +2677,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 143,
+              "DocumentIndex": 146,
               "Title": "EfContactDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfContactDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfContactDal.cs",
@@ -2652,7 +2689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 144,
+              "DocumentIndex": 147,
               "Title": "EfAppUserDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfAppUserDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\EntityFramework\\EfAppUserDal.cs",
@@ -2664,7 +2701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 145,
+              "DocumentIndex": 148,
               "Title": "IWorkLocationDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IWorkLocationDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IWorkLocationDal.cs",
@@ -2676,7 +2713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 146,
+              "DocumentIndex": 149,
               "Title": "ITestimonialDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\ITestimonialDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\ITestimonialDal.cs",
@@ -2688,7 +2725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 147,
+              "DocumentIndex": 150,
               "Title": "ISubscribeDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\ISubscribeDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\ISubscribeDal.cs",
@@ -2700,7 +2737,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 148,
+              "DocumentIndex": 151,
               "Title": "IStaffDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IStaffDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IStaffDal.cs",
@@ -2712,7 +2749,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 149,
+              "DocumentIndex": 152,
               "Title": "IServicesDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IServicesDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IServicesDal.cs",
@@ -2724,7 +2761,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 150,
+              "DocumentIndex": 153,
               "Title": "ISendMessageDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\ISendMessageDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\ISendMessageDal.cs",
@@ -2736,7 +2773,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 151,
+              "DocumentIndex": 154,
               "Title": "IRoomDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IRoomDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IRoomDal.cs",
@@ -2748,7 +2785,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 152,
+              "DocumentIndex": 155,
               "Title": "IMessageCategoryDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IMessageCategoryDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IMessageCategoryDal.cs",
@@ -2760,7 +2797,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 153,
+              "DocumentIndex": 156,
               "Title": "IGuestDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IGuestDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IGuestDal.cs",
@@ -2772,7 +2809,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 154,
+              "DocumentIndex": 157,
               "Title": "IGenericDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IGenericDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IGenericDal.cs",
@@ -2784,7 +2821,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 155,
+              "DocumentIndex": 158,
               "Title": "IContactDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IContactDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IContactDal.cs",
@@ -2796,7 +2833,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 156,
+              "DocumentIndex": 159,
               "Title": "IAppUserDal.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IAppUserDal.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\Abstract\\IAppUserDal.cs",
@@ -2808,7 +2845,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 157,
+              "DocumentIndex": 160,
               "Title": "WorkLocationManager.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Concrete\\WorkLocationManager.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Concrete\\WorkLocationManager.cs",
@@ -2820,7 +2857,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 158,
+              "DocumentIndex": 161,
               "Title": "TestimonialManager.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Concrete\\TestimonialManager.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Concrete\\TestimonialManager.cs",
@@ -2832,7 +2869,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 159,
+              "DocumentIndex": 162,
               "Title": "SubscribeManager.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Concrete\\SubscribeManager.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Concrete\\SubscribeManager.cs",
@@ -2844,7 +2881,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 160,
+              "DocumentIndex": 163,
               "Title": "StaffManager.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Concrete\\StaffManager.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Concrete\\StaffManager.cs",
@@ -2856,7 +2893,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 161,
+              "DocumentIndex": 164,
               "Title": "ServiceManager.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Concrete\\ServiceManager.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Concrete\\ServiceManager.cs",
@@ -2868,7 +2905,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 162,
+              "DocumentIndex": 165,
               "Title": "SendMessageManager.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Concrete\\SendMessageManager.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Concrete\\SendMessageManager.cs",
@@ -2880,7 +2917,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 163,
+              "DocumentIndex": 166,
               "Title": "RoomManager.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Concrete\\RoomManager.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Concrete\\RoomManager.cs",
@@ -2892,7 +2929,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 164,
+              "DocumentIndex": 167,
               "Title": "MessageCategoryManager.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Concrete\\MessageCategoryManager.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Concrete\\MessageCategoryManager.cs",
@@ -2904,7 +2941,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 165,
+              "DocumentIndex": 168,
               "Title": "ContactManager.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Concrete\\ContactManager.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Concrete\\ContactManager.cs",
@@ -2916,7 +2953,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 166,
+              "DocumentIndex": 169,
               "Title": "IWorkLocationService.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IWorkLocationService.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IWorkLocationService.cs",
@@ -2928,7 +2965,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 167,
+              "DocumentIndex": 170,
               "Title": "ITestimonialService.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\ITestimonialService.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\ITestimonialService.cs",
@@ -2940,7 +2977,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 168,
+              "DocumentIndex": 171,
               "Title": "ISubscribeService.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\ISubscribeService.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\ISubscribeService.cs",
@@ -2952,7 +2989,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 169,
+              "DocumentIndex": 172,
               "Title": "IStaffService.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IStaffService.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IStaffService.cs",
@@ -2964,7 +3001,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 170,
+              "DocumentIndex": 173,
               "Title": "IServiceService.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IServiceService.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IServiceService.cs",
@@ -2976,7 +3013,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 171,
+              "DocumentIndex": 174,
               "Title": "ISendMessageService.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\ISendMessageService.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\ISendMessageService.cs",
@@ -2988,7 +3025,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 172,
+              "DocumentIndex": 175,
               "Title": "IMessageCategoryService.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IMessageCategoryService.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IMessageCategoryService.cs",
@@ -3000,7 +3037,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 173,
+              "DocumentIndex": 176,
               "Title": "IGuestService.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IGuestService.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IGuestService.cs",
@@ -3012,7 +3049,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 174,
+              "DocumentIndex": 177,
               "Title": "IContactService.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IContactService.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IContactService.cs",
@@ -3024,7 +3061,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 175,
+              "DocumentIndex": 178,
               "Title": "IAppUserService.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IAppUserService.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectBusinessLayer\\Abstract\\IAppUserService.cs",
@@ -3036,7 +3073,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 176,
+              "DocumentIndex": 179,
               "Title": "AppUserWorkLocationViewModel.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Models\\AppUserWorkLocationViewModel.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Models\\AppUserWorkLocationViewModel.cs",
@@ -3048,7 +3085,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 182,
+              "DocumentIndex": 185,
               "Title": "ResultGuestDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\GuestDto\\ResultGuestDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\GuestDto\\ResultGuestDto.cs",
@@ -3060,7 +3097,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 181,
+              "DocumentIndex": 184,
               "Title": "LoginUserDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\LoginDto\\LoginUserDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\LoginDto\\LoginUserDto.cs",
@@ -3072,7 +3109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 180,
+              "DocumentIndex": 183,
               "Title": "ResultLast4StaffDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\StaffDto\\ResultLast4StaffDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\StaffDto\\ResultLast4StaffDto.cs",
@@ -3084,7 +3121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 179,
+              "DocumentIndex": 182,
               "Title": "ResultStaffDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\StaffDto\\ResultStaffDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\StaffDto\\ResultStaffDto.cs",
@@ -3096,7 +3133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 177,
+              "DocumentIndex": 180,
               "Title": "CreateSubscribeDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\SubscribeDto\\CreateSubscribeDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\SubscribeDto\\CreateSubscribeDto.cs",
@@ -3108,7 +3145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 183,
+              "DocumentIndex": 186,
               "Title": "UpdateGuestDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\GuestDto\\UpdateGuestDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\GuestDto\\UpdateGuestDto.cs",
@@ -3120,7 +3157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 178,
+              "DocumentIndex": 181,
               "Title": "ResultTestimonialDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\TestimonialDto\\ResultTestimonialDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\TestimonialDto\\ResultTestimonialDto.cs",
@@ -3132,7 +3169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 184,
+              "DocumentIndex": 187,
               "Title": "CreateGuestDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\GuestDto\\CreateGuestDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\GuestDto\\CreateGuestDto.cs",
@@ -3144,7 +3181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 185,
+              "DocumentIndex": 188,
               "Title": "UpdateBookingDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\BookingDto\\UpdateBookingDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\BookingDto\\UpdateBookingDto.cs",
@@ -3156,7 +3193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 186,
+              "DocumentIndex": 189,
               "Title": "ResultLast6BookingDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\BookingDto\\ResultLast6BookingDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\BookingDto\\ResultLast6BookingDto.cs",
@@ -3168,7 +3205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 187,
+              "DocumentIndex": 190,
               "Title": "ResultBookingDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\BookingDto\\ResultBookingDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\BookingDto\\ResultBookingDto.cs",
@@ -3180,7 +3217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 188,
+              "DocumentIndex": 191,
               "Title": "CreateBookingDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\BookingDto\\CreateBookingDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\BookingDto\\CreateBookingDto.cs",
@@ -3192,7 +3229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 189,
+              "DocumentIndex": 192,
               "Title": "ResultAppUserWithWorkLocationDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\AppUserDto\\ResultAppUserWithWorkLocationDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\AppUserDto\\ResultAppUserWithWorkLocationDto.cs",
@@ -3204,7 +3241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 190,
+              "DocumentIndex": 193,
               "Title": "ResultAppUserListDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\AppUserDto\\ResultAppUserListDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\AppUserDto\\ResultAppUserListDto.cs",
@@ -3216,7 +3253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 191,
+              "DocumentIndex": 194,
               "Title": "ResultAppUserDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\AppUserDto\\ResultAppUserDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\AppUserDto\\ResultAppUserDto.cs",
@@ -3228,7 +3265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 194,
+              "DocumentIndex": 197,
               "Title": "UpdateTestimonialViewModel.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Models\\Testimonial\\UpdateTestimonialViewModel.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Models\\Testimonial\\UpdateTestimonialViewModel.cs",
@@ -3240,7 +3277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 193,
+              "DocumentIndex": 196,
               "Title": "RoomAddDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\HotelProjectDtoLayer\\Dtos\\RoomDto\\RoomAddDto.cs",
               "RelativeDocumentMoniker": "HotelProjectDtoLayer\\Dtos\\RoomDto\\RoomAddDto.cs",
@@ -3252,7 +3289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 192,
+              "DocumentIndex": 195,
               "Title": "HotelProjectEntityLayer.csproj",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\HotelProjectEntityLayer.csproj",
@@ -3264,7 +3301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 196,
+              "DocumentIndex": 199,
               "Title": "AddTestimonialViewModel.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Models\\Testimonial\\AddTestimonialViewModel.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Models\\Testimonial\\AddTestimonialViewModel.cs",
@@ -3276,7 +3313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 197,
+              "DocumentIndex": 200,
               "Title": "AddTestimonial.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Testimonial\\AddTestimonial.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Testimonial\\AddTestimonial.cshtml",
@@ -3288,7 +3325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 195,
+              "DocumentIndex": 198,
               "Title": "TestimonialViewModel.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Models\\Testimonial\\TestimonialViewModel.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Models\\Testimonial\\TestimonialViewModel.cs",
@@ -3300,7 +3337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 198,
+              "DocumentIndex": 201,
               "Title": "UpdateStaffViewModel.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Models\\Staff\\UpdateStaffViewModel.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Models\\Staff\\UpdateStaffViewModel.cs",
@@ -3312,7 +3349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 203,
+              "DocumentIndex": 206,
               "Title": "AddRoleViewModel.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Models\\Role\\AddRoleViewModel.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Models\\Role\\AddRoleViewModel.cs",
@@ -3324,7 +3361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 202,
+              "DocumentIndex": 205,
               "Title": "RoleAssignViewModel.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Models\\Role\\RoleAssignViewModel.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Models\\Role\\RoleAssignViewModel.cs",
@@ -3336,7 +3373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 201,
+              "DocumentIndex": 204,
               "Title": "UpdateRoleViewModel.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Models\\Role\\UpdateRoleViewModel.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Models\\Role\\UpdateRoleViewModel.cs",
@@ -3348,7 +3385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 200,
+              "DocumentIndex": 203,
               "Title": "ResultAboutDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\AboutDto\\ResultAboutDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\AboutDto\\ResultAboutDto.cs",
@@ -3360,7 +3397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 199,
+              "DocumentIndex": 202,
               "Title": "UpdateAboutDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\AboutDto\\UpdateAboutDto.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\AboutDto\\UpdateAboutDto.cs",
@@ -3372,7 +3409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 204,
+              "DocumentIndex": 207,
               "Title": "AdminMailViewModel.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Models\\Mail\\AdminMailViewModel.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Models\\Mail\\AdminMailViewModel.cs",
@@ -3384,7 +3421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 205,
+              "DocumentIndex": 208,
               "Title": "UserEditViewModel.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Models\\Setting\\UserEditViewModel.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Models\\Setting\\UserEditViewModel.cs",
@@ -3396,7 +3433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 211,
+              "DocumentIndex": 214,
               "Title": "NavheaderPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\AdminLayout\\NavheaderPartial.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\AdminLayout\\NavheaderPartial.cshtml",
@@ -3408,7 +3445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 212,
+              "DocumentIndex": 215,
               "Title": "HeaderPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\AdminLayout\\HeaderPartial.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\AdminLayout\\HeaderPartial.cshtml",
@@ -3420,7 +3457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 206,
+              "DocumentIndex": 209,
               "Title": "SidebarPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\AdminLayout\\SidebarPartial.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\AdminLayout\\SidebarPartial.cshtml",
@@ -3432,7 +3469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 208,
+              "DocumentIndex": 211,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\AdminLayout\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\AdminLayout\\_AdminLayout.cshtml",
@@ -3444,7 +3481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 207,
+              "DocumentIndex": 210,
               "Title": "FooterPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\AdminLayout\\FooterPartial.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\AdminLayout\\FooterPartial.cshtml",
@@ -3456,7 +3493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 210,
+              "DocumentIndex": 213,
               "Title": "PreloaderPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\AdminLayout\\PreloaderPartial.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\AdminLayout\\PreloaderPartial.cshtml",
@@ -3468,7 +3505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 209,
+              "DocumentIndex": 212,
               "Title": "ScriptPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\AdminLayout\\ScriptPartial.cshtml",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\AdminLayout\\ScriptPartial.cshtml",
@@ -3480,7 +3517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 213,
+              "DocumentIndex": 216,
               "Title": "\uFEFFCreateGuestValidator.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\ValidationRules\\GuestValidationRules\\\uFEFFCreateGuestValidator.cs",
               "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\ValidationRules\\GuestValidationRules\\\uFEFFCreateGuestValidator.cs",
@@ -3492,7 +3529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 214,
+              "DocumentIndex": 217,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectWebApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectWebApi\\Properties\\launchSettings.json",
@@ -3504,7 +3541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 215,
+              "DocumentIndex": 218,
               "Title": "TestimonialAddDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\HotelProjectDtoLayer\\Dtos\\TestimonialDto\\TestimonialAddDto.cs",
               "RelativeDocumentMoniker": "HotelProjectDtoLayer\\Dtos\\TestimonialDto\\TestimonialAddDto.cs",
@@ -3516,7 +3553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 216,
+              "DocumentIndex": 219,
               "Title": "UpdateRoomDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\HotelProjectDtoLayer\\Dtos\\RoomDto\\UpdateRoomDto.cs",
               "RelativeDocumentMoniker": "HotelProjectDtoLayer\\Dtos\\RoomDto\\UpdateRoomDto.cs",
@@ -3528,7 +3565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 217,
+              "DocumentIndex": 220,
               "Title": "AppUserWithWorkLocationDto.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\HotelProjectDtoLayer\\Dtos\\AppUser\\AppUserWithWorkLocationDto.cs",
               "RelativeDocumentMoniker": "HotelProjectDtoLayer\\Dtos\\AppUser\\AppUserWithWorkLocationDto.cs",
@@ -3540,7 +3577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 218,
+              "DocumentIndex": 221,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\Repositories\\GenericRepository.cs",
@@ -3552,7 +3589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 220,
+              "DocumentIndex": 223,
               "Title": "20250605185215_mig3.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Migrations\\20250605185215_mig3.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\Migrations\\20250605185215_mig3.cs",
@@ -3564,7 +3601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 221,
+              "DocumentIndex": 224,
               "Title": "20250605184002_mig2.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectDataAccessLayer\\Migrations\\20250605184002_mig2.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectDataAccessLayer\\Migrations\\20250605184002_mig2.cs",
@@ -3576,7 +3613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 219,
+              "DocumentIndex": 222,
               "Title": "Subscribe.cs",
               "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\ApiConsume\\HotelProjectEntityLayer\\Concrete\\Subscribe.cs",
               "RelativeDocumentMoniker": "ApiConsume\\HotelProjectEntityLayer\\Concrete\\Subscribe.cs",
