@@ -1,0 +1,26 @@
+﻿@model List<Result>
+
+<h1>Destinasyon Sonuçları</h1>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Destinasyon Adı</th>
+            <th>Şehir</th>
+            <th>Ülke</th>
+            <th>Tip</th>
+            <th>Otel Sayısı</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.name</td>
+                <td>@item.city_name</td>
+                <td>@item.country</td>
+                <td>@item.dest_type</td>
+                <td>@item.nr_hotels</td>
+            </tr>
+        }
+    </tbody>
+</table>

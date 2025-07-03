@@ -1,0 +1,58 @@
+@model List<RapidApiConsume.Models.BookingApiLocationSearchViewModel>
+@{
+    ViewData["Title"] = "Search Location ID";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Search Location ID</h1>
+    <p>Find destination ID for your city searches</p>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <form method="get" asp-action="Index">
+            <div class="form-group">
+                <label for="cityName">City Name:</label>
+                <input type="text" class="form-control" name="cityName" placeholder="Enter city name (e.g., Paris, London)" />
+            </div>
+            <button type="submit" class="btn btn-primary">Search Location</button>
+        </form>
+    </div>
+</div>
+
+<hr />
+
+@if (Model != null && Model.Any())
+{
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-6 mb-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.name</h5>
+                        <p class="card-text">
+                            <strong>City:</strong> @item.city_name<br />
+                            <strong>Country:</strong> @item.country<br />
+                            <strong>Region:</strong> @item.region<br />
+                            <strong>Destination ID:</strong> <span class="badge badge-primary">@item.dest_id</span><br />
+                            <strong>Destination Type:</strong> @item.dest_type<br />
+                            <strong>Label:</strong> @item.label
+                        </p>
+                        <a href="/BookingByCity?cityID=@item.dest_id" class="btn btn-success">
+                            Search Hotels in this Location
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <div class="alert alert-info">
+        <h4>No locations found</h4>
+        <p>Try searching with a different city name.</p>
+        <p><small>Default search showing Paris location.</small></p>
+    </div>
+} 

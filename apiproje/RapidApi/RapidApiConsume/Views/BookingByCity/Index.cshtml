@@ -1,0 +1,57 @@
+@model List<RapidApiConsume.Models.Result>
+@{
+    ViewData["Title"] = "Booking by City";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Hotel Search by City</h1>
+    <p>Search hotels by specific city ID</p>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <form method="get" asp-action="Index">
+            <div class="form-group">
+                <label for="cityID">City ID:</label>
+                <input type="text" class="form-control" name="cityID" placeholder="Enter city ID (e.g., -1456928)" />
+            </div>
+            <button type="submit" class="btn btn-primary">Search Hotels</button>
+        </form>
+    </div>
+</div>
+
+<hr />
+
+@if (Model != null && Model.Any())
+{
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    @if (!string.IsNullOrEmpty(item.max_photo_url))
+                    {
+                        <img src="@item.max_photo_url" class="card-img-top" alt="@item.hotel_name" style="height: 200px; object-fit: cover;" />
+                    }
+                    <div class="card-body">
+                        <h5 class="card-title">@item.hotel_name</h5>
+                        <p class="card-text">
+                            <strong>City:</strong> @item.city_trans<br />
+                            <strong>Address:</strong> @item.address<br />
+                            <strong>Price:</strong> @item.min_total_price @item.currency_code<br />
+                            <strong>Review Score:</strong> @item.review_score (@item.review_score_word)
+                        </p>
+                        <small class="text-muted">Distance to City Center: @item.distance_to_cc</small>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <div class="alert alert-info">
+        <h4>No hotels found</h4>
+        <p>Try searching with a different city ID.</p>
+    </div>
+} 
