@@ -41,4 +41,3 @@ C:\Users\cucin\Desktop\c# ödevler\apiproje\JwtProject\WebApiJwt\obj\Debug\net8.
 C:\Users\cucin\Desktop\c# ödevler\apiproje\JwtProject\WebApiJwt\obj\Debug\net8.0\WebApiJwt.pdb
 C:\Users\cucin\Desktop\c# ödevler\apiproje\JwtProject\WebApiJwt\obj\Debug\net8.0\WebApiJwt.genruntimeconfig.cache
 C:\Users\cucin\Desktop\c# ödevler\apiproje\JwtProject\WebApiJwt\obj\Debug\net8.0\ref\WebApiJwt.dll
-C:\Users\cucin\Desktop\c# ödevler\apiproje\JwtProject\WebApiJwt\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

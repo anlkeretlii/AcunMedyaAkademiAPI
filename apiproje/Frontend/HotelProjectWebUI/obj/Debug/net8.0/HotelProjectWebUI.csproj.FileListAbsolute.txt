@@ -134,7 +134,6 @@ C:\Users\cucin\Desktop\c# ödevler\apiproje\Frontend\HotelProjectWebUI\obj\Debug
 C:\Users\cucin\Desktop\c# ödevler\apiproje\Frontend\HotelProjectWebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HotelProjectWebUI.props
 C:\Users\cucin\Desktop\c# ödevler\apiproje\Frontend\HotelProjectWebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HotelProjectWebUI.props
 C:\Users\cucin\Desktop\c# ödevler\apiproje\Frontend\HotelProjectWebUI\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\cucin\Desktop\c# ödevler\apiproje\Frontend\HotelProjectWebUI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\cucin\Desktop\c# ödevler\apiproje\Frontend\HotelProjectWebUI\obj\Debug\net8.0\HotelPro.4C94F545.Up2Date
 C:\Users\cucin\Desktop\c# ödevler\apiproje\Frontend\HotelProjectWebUI\obj\Debug\net8.0\HotelProjectWebUI.dll
 C:\Users\cucin\Desktop\c# ödevler\apiproje\Frontend\HotelProjectWebUI\obj\Debug\net8.0\refint\HotelProjectWebUI.dll
@@ -289,3 +288,4 @@ C:\Users\cucin\Desktop\c# ödevler\apiproje\Frontend\HotelProjectWebUI\bin\Debug
 C:\Users\cucin\Desktop\c# ödevler\apiproje\Frontend\HotelProjectWebUI\bin\Debug\net8.0\HotelProjectDataAccessLayer.pdb
 C:\Users\cucin\Desktop\c# ödevler\apiproje\Frontend\HotelProjectWebUI\bin\Debug\net8.0\HotelProjectEntityLayer.pdb
 C:\Users\cucin\Desktop\c# ödevler\apiproje\Frontend\HotelProjectWebUI\bin\Debug\net8.0\HotelProjectBusinessLayer.pdb
+C:\Users\cucin\Desktop\c# ödevler\apiproje\Frontend\HotelProjectWebUI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

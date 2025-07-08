@@ -26,7 +26,6 @@ C:\Users\cucin\Desktop\c# ödevler\apiproje\RapidApi\RapidApiConsume\obj\Debug\n
 C:\Users\cucin\Desktop\c# ödevler\apiproje\RapidApi\RapidApiConsume\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RapidApiConsume.props
 C:\Users\cucin\Desktop\c# ödevler\apiproje\RapidApi\RapidApiConsume\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RapidApiConsume.props
 C:\Users\cucin\Desktop\c# ödevler\apiproje\RapidApi\RapidApiConsume\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\cucin\Desktop\c# ödevler\apiproje\RapidApi\RapidApiConsume\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\cucin\Desktop\c# ödevler\apiproje\RapidApi\RapidApiConsume\obj\Debug\net8.0\RapidApiConsume.dll
 C:\Users\cucin\Desktop\c# ödevler\apiproje\RapidApi\RapidApiConsume\obj\Debug\net8.0\refint\RapidApiConsume.dll
 C:\Users\cucin\Desktop\c# ödevler\apiproje\RapidApi\RapidApiConsume\obj\Debug\net8.0\RapidApiConsume.pdb

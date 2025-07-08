@@ -22,8 +22,14 @@ namespace HotelProjectWebApi.Controllers
             return Ok(values);
         }
         [HttpPost]
-        public IActionResult AddGuest(Guest guest)
+        public IActionResult AddGuest([FromBody] dynamic guestData)
         {
+            var guest = new Guest
+            {
+                Name = guestData.Name,
+                Surname = guestData.Surname,
+                City = guestData.City
+            };
             _guestService.TInsert(guest);
             return Ok();
         }
@@ -35,8 +41,15 @@ namespace HotelProjectWebApi.Controllers
             return Ok();
         }
         [HttpPut]
-        public IActionResult UpdateGuest(Guest guest)
+        public IActionResult UpdateGuest([FromBody] dynamic guestData)
         {
+            var guest = new Guest
+            {
+                GuestID = guestData.GuestID,
+                Name = guestData.Name,
+                Surname = guestData.Surname,
+                City = guestData.City
+            };
             _guestService.TUpdate(guest);
             return Ok();
         }

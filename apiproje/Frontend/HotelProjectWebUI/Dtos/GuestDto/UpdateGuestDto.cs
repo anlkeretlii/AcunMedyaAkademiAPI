@@ -1,4 +1,4 @@
-namespace HotelProject.WebUI.Dtos.GuestDto
+namespace HotelProjectWebUI.Dtos.GuestDto
 {
     public class UpdateGuestDto
     {

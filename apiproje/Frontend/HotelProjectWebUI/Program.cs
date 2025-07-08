@@ -2,7 +2,7 @@ using FluentValidation;
 using FluentValidation.AspNetCore;
 using HotelProjectDataAccessLayer.Concrete;
 using HotelProjectEntityLayer.Concrete;
-using HotelProject.WebUI.Dtos.GuestDto;
+using HotelProjectWebUI.Dtos.GuestDto;
 using HotelProject.WebUI.ValidationRules.GuestValidationRules;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;

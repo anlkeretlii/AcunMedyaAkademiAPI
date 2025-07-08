@@ -15,7 +15,35 @@ namespace HotelProjectDataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=ANIL;initial Catalog=HotelApi;integrated Security=True; TrustServerCertificate=True;");
+            optionsBuilder.UseSqlServer("Server=ANIL;initial Catalog=HotelApi;integrated Security=True; TrustServerCertificate=True;",
+                options => options.EnableRetryOnFailure());
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+            
+            // Room entity'sinde trigger olduğunu belirtiyoruz
+            modelBuilder.Entity<Room>().ToTable(tb => tb.HasTrigger("TR_Rooms"));
+        }
+
+        public override int SaveChanges()
+        {
+            try
+            {
+                return base.SaveChanges();
+            }
+            catch (DbUpdateException ex) when (ex.InnerException?.Message?.Contains("OUTPUT clause") == true)
+            {
+                // Trigger'lar için alternatif kaydetme yöntemi
+                var entries = ChangeTracker.Entries().Where(e => e.State == EntityState.Deleted).ToList();
+                foreach (var entry in entries)
+                {
+                    entry.State = EntityState.Detached;
+                    Database.ExecuteSqlRaw($"DELETE FROM {entry.Metadata.GetTableName()} WHERE {entry.Metadata.FindPrimaryKey().Properties.First().Name} = {entry.Property(entry.Metadata.FindPrimaryKey().Properties.First().Name).CurrentValue}");
+                }
+                return entries.Count;
+            }
         }
 
         public DbSet<Room> Rooms { get; set; }
