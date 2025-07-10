@@ -170,3 +170,4 @@ C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectWebApi\bin\De
 C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectWebApi\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectWebApi\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectWebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\cucin\Desktop\c# ödevler\apiproje\ApiConsume\HotelProjectWebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

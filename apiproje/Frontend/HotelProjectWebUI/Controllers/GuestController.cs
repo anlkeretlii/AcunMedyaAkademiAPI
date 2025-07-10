@@ -47,7 +47,7 @@ namespace HotelProjectWebUI.Controllers
                 {
                     var errorContent = await responseMessage.Content.ReadAsStringAsync();
                     TempData["ErrorMessage"] = $"Misafir eklenirken bir hata oluştu. Status: {responseMessage.StatusCode}, Detay: {errorContent}";
-                    return View();
+                return View();
                 }
             }
             else
@@ -68,7 +68,7 @@ namespace HotelProjectWebUI.Controllers
                 var errorContent = await responseMessage.Content.ReadAsStringAsync();
                 TempData["ErrorMessage"] = $"Misafir silinirken bir hata oluştu. Status: {responseMessage.StatusCode}, Detay: {errorContent}";
             }
-            return RedirectToAction("Index");
+                return RedirectToAction("Index");
         }
 
         [HttpGet]
@@ -104,7 +104,7 @@ namespace HotelProjectWebUI.Controllers
                 {
                     var errorContent = await responseMessage.Content.ReadAsStringAsync();
                     TempData["ErrorMessage"] = $"Misafir güncellenirken bir hata oluştu. Status: {responseMessage.StatusCode}, Detay: {errorContent}";
-                    return View();
+                return View();
                 }
             }
             return View();

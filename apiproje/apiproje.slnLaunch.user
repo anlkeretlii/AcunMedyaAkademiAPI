@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ApiConsume\\HotelProjectWebApi\\HotelProjectWebApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
