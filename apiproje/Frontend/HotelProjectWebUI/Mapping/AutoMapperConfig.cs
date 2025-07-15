@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using HotelProject.WebUI.Dtos.GuestDto;
+using HotelProjectWebUI.Dtos.GuestDto;
 using HotelProjectEntityLayer.Concrete;
 using HotelProjectWebUI.Dtos.AboutDto;
 using HotelProjectWebUI.Dtos.TestimonialDto;

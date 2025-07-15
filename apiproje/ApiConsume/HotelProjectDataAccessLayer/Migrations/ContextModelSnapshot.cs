@@ -98,7 +98,6 @@ namespace HotelProjectDataAccessLayer.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("City")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ConcurrencyStamp")
@@ -106,7 +105,6 @@ namespace HotelProjectDataAccessLayer.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Country")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Email")
@@ -117,11 +115,9 @@ namespace HotelProjectDataAccessLayer.Migrations
                         .HasColumnType("bit");
 
                     b.Property<string>("Gender")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ImageUrl")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("LockoutEnabled")
@@ -166,7 +162,6 @@ namespace HotelProjectDataAccessLayer.Migrations
                         .HasColumnType("nvarchar(256)");
 
                     b.Property<string>("WorkDepartment")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("WorkLocationID")

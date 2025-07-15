@@ -1,5 +1,5 @@
 using FluentValidation;
-using HotelProject.WebUI.Dtos.GuestDto;
+using HotelProjectWebUI.Dtos.GuestDto;
 
 namespace HotelProject.WebUI.ValidationRules.GuestValidationRules
 {
