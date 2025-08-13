@@ -3,12 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\views\\adminmail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\views\\adminmail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\controllers\\adminmailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\controllers\\adminmailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\views\\roleassign\\assignrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\views\\roleassign\\assignrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\views\\role\\updaterole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\views\\role\\updaterole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\views\\role\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\views\\role\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\views\\roleassign\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\views\\roleassign\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\controllers\\roleassigncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\controllers\\roleassigncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\views\\shared\\components\\_dashboardsubscribecountpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\views\\shared\\components\\_dashboardsubscribecountpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\dtos\\dashboarddto\\twitterapiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\dtos\\dashboarddto\\twitterapiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\dtos\\dashboarddto\\resulttwitterfollowersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\dtos\\dashboarddto\\resulttwitterfollowersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\dtos\\dashboarddto\\instagramapiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\dtos\\dashboarddto\\instagramapiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\dtos\\dashboarddto\\socialmediadashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\dtos\\dashboarddto\\socialmediadashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|c:\\users\\cucin\\desktop\\c# \u00F6devler\\apiproje\\frontend\\hotelprojectwebui\\viewcomponents\\dashboard\\_dashboardsubscribecountpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F5B1C9-21AD-4827-87B1-4C2307FCB260}|Frontend\\HotelProjectWebUI\\HotelProjectWebUI.csproj|solutionrelative:frontend\\hotelprojectwebui\\viewcomponents\\dashboard\\_dashboardsubscribecountpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +69,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 245,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,43 +82,204 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\AdminMail\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\AdminMail\\Index.cshtml",
-              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\AdminMail\\Index.cshtml",
-              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Views\\AdminMail\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Settings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Settings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Settings\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Views\\Settings\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-15T10:46:49.89Z",
+              "WhenOpened": "2025-08-13T12:33:53.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminMailController.cs",
-              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\AdminMailController.cs",
-              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Controllers\\AdminMailController.cs",
-              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\AdminMailController.cs",
-              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Controllers\\AdminMailController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Controllers\\SettingsController.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\SettingsController.cs*",
+              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Controllers\\SettingsController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T10:44:44.89Z",
+              "WhenOpened": "2025-08-13T12:31:34.906Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssignRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\RoleAssign\\AssignRole.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\RoleAssign\\AssignRole.cshtml",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\RoleAssign\\AssignRole.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Views\\RoleAssign\\AssignRole.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T12:16:05.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\RoleAssign\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\RoleAssign\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\RoleAssign\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Views\\RoleAssign\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T12:08:14.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleAssignController.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\RoleAssignController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Controllers\\RoleAssignController.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\RoleAssignController.cs",
+              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Controllers\\RoleAssignController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T12:07:35.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Role\\UpdateRole.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Role\\UpdateRole.cshtml",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Role\\UpdateRole.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Views\\Role\\UpdateRole.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T11:46:33.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Role\\AddRole.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Role\\AddRole.cshtml",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Role\\AddRole.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Views\\Role\\AddRole.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T11:44:59.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Role\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Views\\Role\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T11:40:09.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowC0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:38:14.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResultTwitterFollowersDto.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\DashboardDto\\ResultTwitterFollowersDto.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\DashboardDto\\ResultTwitterFollowersDto.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\DashboardDto\\ResultTwitterFollowersDto.cs",
+              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Dtos\\DashboardDto\\ResultTwitterFollowersDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T05:48:59.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TwitterApiResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\DashboardDto\\TwitterApiResponseDto.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\DashboardDto\\TwitterApiResponseDto.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\DashboardDto\\TwitterApiResponseDto.cs",
+              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Dtos\\DashboardDto\\TwitterApiResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T20:16:55.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_DashboardSubscribeCountPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_DashboardSubscribeCountPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_DashboardSubscribeCountPartial\\Default.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Views\\Shared\\Components\\_DashboardSubscribeCountPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T16:05:19.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InstagramApiResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\DashboardDto\\InstagramApiResponseDto.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\DashboardDto\\InstagramApiResponseDto.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\DashboardDto\\InstagramApiResponseDto.cs",
+              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Dtos\\DashboardDto\\InstagramApiResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T20:16:55.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SocialMediaDashboardDto.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\DashboardDto\\SocialMediaDashboardDto.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\Dtos\\DashboardDto\\SocialMediaDashboardDto.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\Dtos\\DashboardDto\\SocialMediaDashboardDto.cs",
+              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\Dtos\\DashboardDto\\SocialMediaDashboardDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T20:16:16.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_DashboardSubscribeCountPartial.cs",
+              "DocumentMoniker": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\ViewComponents\\Dashboard\\_DashboardSubscribeCountPartial.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProjectWebUI\\ViewComponents\\Dashboard\\_DashboardSubscribeCountPartial.cs",
+              "ToolTip": "C:\\Users\\cucin\\Desktop\\c# \u00F6devler\\apiproje\\Frontend\\HotelProjectWebUI\\ViewComponents\\Dashboard\\_DashboardSubscribeCountPartial.cs",
+              "RelativeToolTip": "Frontend\\HotelProjectWebUI\\ViewComponents\\Dashboard\\_DashboardSubscribeCountPartial.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAIAwwGoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T12:56:43.732Z"
             }
           ]
         },
         {
-          "DockedWidth": 69,
+          "DockedWidth": 24,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         }

@@ -398,8 +398,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "guest",
-        "Type": "HotelProjectEntityLayer.Concrete.Guest",
+        "Name": "guestData",
+        "Type": "System.Object",
         "IsRequired": true
       }
     ],
@@ -414,8 +414,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "guest",
-        "Type": "HotelProjectEntityLayer.Concrete.Guest",
+        "Name": "guestData",
+        "Type": "System.Object",
         "IsRequired": true
       }
     ],

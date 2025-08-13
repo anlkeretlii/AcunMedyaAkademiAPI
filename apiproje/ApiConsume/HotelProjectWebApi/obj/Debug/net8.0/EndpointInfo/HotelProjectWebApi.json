@@ -572,19 +572,13 @@
         "requestBody": {
           "content": {
             "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Guest"
-              }
+              "schema": { }
             },
             "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Guest"
-              }
+              "schema": { }
             },
             "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/Guest"
-              }
+              "schema": { }
             }
           }
         },
@@ -601,19 +595,13 @@
         "requestBody": {
           "content": {
             "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Guest"
-              }
+              "schema": { }
             },
             "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Guest"
-              }
+              "schema": { }
             },
             "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/Guest"
-              }
+              "schema": { }
             }
           }
         },
@@ -1903,28 +1891,6 @@
         },
         "additionalProperties": false
       },
-      "Guest": {
-        "type": "object",
-        "properties": {
-          "guestID": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "name": {
-            "type": "string",
-            "nullable": true
-          },
-          "surname": {
-            "type": "string",
-            "nullable": true
-          },
-          "city": {
-            "type": "string",
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
       "MessageCategory": {
         "type": "object",
         "properties": {
@@ -1934,13 +1900,6 @@
           },
           "messageCategoryName": {
             "type": "string",
-            "nullable": true
-          },
-          "contacts": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Contact"
-            },
             "nullable": true
           }
         },

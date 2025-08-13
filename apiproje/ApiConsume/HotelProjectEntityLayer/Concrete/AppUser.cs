@@ -17,6 +17,6 @@ namespace HotelProjectEntityLayer.Concrete
         public string? Gender { get; set; }
         public string? WorkDepartment { get; set; }
         public int WorkLocationID { get; set; }
-        public WorkLocation WorkLocation { get; set; }
+        public WorkLocation? WorkLocation { get; set; }
     }
 }

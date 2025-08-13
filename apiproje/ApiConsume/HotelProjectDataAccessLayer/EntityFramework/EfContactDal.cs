@@ -2,6 +2,7 @@
 using HotelProjectDataAccessLayer.Concrete;
 using HotelProjectDataAccessLayer.Repositories;
 using HotelProjectEntityLayer.Concrete;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,6 +22,18 @@ namespace HotelProjectDataAccessLayer.EntityFramework
         {
             var context = new Context();
             return context.Contacts.Count();
+        }
+
+        public List<Contact> GetListWithMessageCategory()
+        {
+            var context = new Context();
+            return context.Contacts.Include(x => x.MessageCategory).ToList();
+        }
+
+        public Contact GetByIDWithMessageCategory(int id)
+        {
+            var context = new Context();
+            return context.Contacts.Include(x => x.MessageCategory).Where(x => x.ContactID == id).FirstOrDefault()!;
         }
     }
 }

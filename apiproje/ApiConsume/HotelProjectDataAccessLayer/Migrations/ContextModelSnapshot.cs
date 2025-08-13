@@ -361,7 +361,12 @@ namespace HotelProjectDataAccessLayer.Migrations
 
                     b.HasKey("RoomID");
 
-                    b.ToTable("Rooms");
+                    b.ToTable("Rooms", t =>
+                        {
+                            t.HasTrigger("TR_Rooms");
+                        });
+
+                    b.HasAnnotation("SqlServer:UseSqlOutputClause", false);
                 });
 
             modelBuilder.Entity("HotelProjectEntityLayer.Concrete.SendMessage", b =>
@@ -517,11 +522,9 @@ namespace HotelProjectDataAccessLayer.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("WorkLocationID"));
 
                     b.Property<string>("WorkLocationCity")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("WorkLocationName")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("WorkLocationID");

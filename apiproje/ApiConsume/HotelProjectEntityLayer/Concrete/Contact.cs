@@ -9,12 +9,12 @@ namespace HotelProjectEntityLayer.Concrete
     public class Contact
     {
         public int ContactID { get; set; }
-        public string Name { get; set; }
-        public string Mail { get; set; }
-        public string Subject { get; set; }
-        public string Message { get; set; }
+        public string Name { get; set; } = string.Empty;
+        public string Mail { get; set; } = string.Empty;
+        public string Subject { get; set; } = string.Empty;
+        public string Message { get; set; } = string.Empty;
         public DateTime Date { get; set; }
         public int MessageCategoryID { get; set; }
-        public MessageCategory MessageCategory { get; set; }
+        public MessageCategory? MessageCategory { get; set; }
     }
 }

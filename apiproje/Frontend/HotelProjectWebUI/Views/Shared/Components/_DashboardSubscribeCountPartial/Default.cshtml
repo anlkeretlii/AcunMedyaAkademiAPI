@@ -1,0 +1,97 @@
+﻿@model HotelProjectWebUI.Dtos.DashboardDto.SocialMediaDashboardDto
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+<div class="row">
+
+    <!-- Facebook -->
+    <div class="col-lg-3 col-sm-6">
+        <div class="card">
+            <div class="social-graph-wrapper widget-facebook text-center" style="background-color:#3b5998;">
+                <span class="s-icon text-white"><i class="fab fa-facebook-f fa-2x"></i></span>
+            </div>
+            <div class="row">
+                <div class="col-6 border-right">
+                    <div class="pt-3 pb-3 text-center">
+                        <h4 class="m-1">530</h4>
+                        <p class="m-0">Takipçiler</p>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="pt-3 pb-3 text-center">
+                        <h4 class="m-1">196</h4>
+                        <p class="m-0">Takip Ettiklerin</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- LinkedIn -->
+    <div class="col-lg-3 col-sm-6">
+        <div class="card">
+            <div class="social-graph-wrapper widget-linkedin text-center" style="background-color:#0077b5;">
+                <span class="s-icon text-white"><i class="fab fa-linkedin-in fa-2x"></i></span>
+            </div>
+            <div class="row">
+                <div class="col-6 border-right">
+                    <div class="pt-3 pb-3 text-center">
+                        <h4 class="m-1">1546</h4>
+                        <p class="m-0">Takipçiler</p>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="pt-3 pb-3 text-center">
+                        <h4 class="m-1">503</h4>
+                        <p class="m-0">Takip Ettiklerin</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Instagram -->
+    <div class="col-lg-3 col-sm-6">
+        <div class="card">
+            <div class="social-graph-wrapper widget-instagram text-center" style="background: linear-gradient(45deg,#f09433,#e6683c,#dc2743,#cc2366,#bc1888);">
+                <span class="s-icon text-white"><i class="fab fa-instagram fa-2x"></i></span>
+            </div>
+            <div class="row">
+                <div class="col-6 border-right">
+                    <div class="pt-3 pb-3 text-center">
+                        <h4 class="m-1">@Model.Instagram.follower_count</h4>
+                        <p class="m-0">Takipçiler</p>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="pt-3 pb-3 text-center">
+                        <h4 class="m-1">@Model.Instagram.following_count</h4>
+                        <p class="m-0">Takip Ettiklerin</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Twitter -->
+    <div class="col-lg-3 col-sm-6">
+        <div class="card">
+            <div class="social-graph-wrapper widget-twitter text-center" style="background-color:#1da1f2;">
+                <span class="s-icon text-white"><i class="fab fa-twitter fa-2x"></i></span>
+            </div>
+            <div class="row">
+                <div class="col-6 border-right">
+                    <div class="pt-3 pb-3 text-center">
+                        <h4 class="m-1">@Model.Twitter.followers_count</h4>
+                        <p class="m-0">Takipçiler</p>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="pt-3 pb-3 text-center">
+                        <h4 class="m-1">@Model.Twitter.friends_count</h4>
+                        <p class="m-0">Takip Ettiklerin</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

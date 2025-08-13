@@ -46,5 +46,15 @@ namespace HotelProjectBusinessLayer.Concrete
         {
             throw new NotImplementedException();
         }
+
+        public List<Contact> TGetListWithMessageCategory()
+        {
+            return _contactDal.GetListWithMessageCategory();
+        }
+
+        public Contact TGetByIDWithMessageCategory(int id)
+        {
+            return _contactDal.GetByIDWithMessageCategory(id);
+        }
     }
 }

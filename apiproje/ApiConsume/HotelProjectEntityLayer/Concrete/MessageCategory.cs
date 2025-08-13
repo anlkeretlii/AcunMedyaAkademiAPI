@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace HotelProjectEntityLayer.Concrete
@@ -9,7 +10,8 @@ namespace HotelProjectEntityLayer.Concrete
     public class MessageCategory
     {
         public int MessageCategoryID { get; set; }
-        public string MessageCategoryName { get; set; }
-        public List<Contact> Contacts { get; set; }
+        public string MessageCategoryName { get; set; } = string.Empty;
+        [JsonIgnore]
+        public List<Contact> Contacts { get; set; } = new List<Contact>();
     }
 }

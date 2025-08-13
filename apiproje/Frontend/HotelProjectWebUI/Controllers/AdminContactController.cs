@@ -106,18 +106,18 @@ namespace HotelProjectWebUI.Controllers
             return View();
         }
 
-        //public async Task<IActionResult> GetContactCount()
-        //{
-        //    var client = _httpClientFactory.CreateClient();
-        //    var responseMessage = await client.GetAsync("http://localhost:5273/api/Contact/GetContactCount");
-        //    if (responseMessage.IsSuccessStatusCode)
-        //    {
-        //        var jsonData = await responseMessage.Content.ReadAsStringAsync();
-        //        // var values = JsonConvert.DeserializeObject<List<InboxContactDto>>(jsonData);
-        //        ViewBag.data = jsonData;
-        //        return View();
-        //    }
-        //    return View();
-        //}
+        public async Task<IActionResult> GetContactCount()
+        {
+            var client = _httpClientFactory.CreateClient();
+            var responseMessage = await client.GetAsync("http://localhost:5273/api/Contact/GetContactCount");
+            if (responseMessage.IsSuccessStatusCode)
+            {
+                var jsonData = await responseMessage.Content.ReadAsStringAsync();
+                var values = JsonConvert.DeserializeObject<List<InboxContactDto>>(jsonData);
+                ViewBag.data = jsonData;
+                return View();
+            }
+            return View();
+        }
     }
 }
